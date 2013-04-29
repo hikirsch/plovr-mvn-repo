@@ -15,7 +15,7 @@ Include our github repository in your pom.xml:
 <repository>
   <id>org.plovr.github.hikirsch</id>
   <name>plovr Maven Repository via GitHub</name>
-  <url>https://raw.github.com/hikirsch/plovr-mvn-repo/master</url>
+  <url>http://hikirsch.github.io/plovr-mvn-repo</url>
 </repository>
 ```
 Add dependency:
