@@ -14,6 +14,7 @@
 		var $latestVersionDate = "20121028000000";
 
 		var $versions = array(
+			"81ed862",
 			"eba786b34df9",
 			"4b3caf2b7d84",
 			"d6db24beeb7f",
